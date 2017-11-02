@@ -1,0 +1,73 @@
+Version 1.0.0.0
+Software released.
+
+Version 1.0.1.4
+Added options:
+-Now the same textbox is used for searching and navigating.
+-New software icon.
+-File size reduced over 4/5 (now it is 1/5 of before)
+-Added function View Source Code.
+
+Version 1.0.2.3
+Added features:
+-Now on right click a link shows up a menu
+-Same with images, but not working
+-Any other thing will have the option of reloading page and viewing source
+
+Version 1.0.3.3
+Added features:
+-Now it focus address bar automatly on start. It is more comfortable for fast searches.
+-Now it deletes history (it was saved as IE history) when you exit.
+-Added Copy Image URL and Open Image In New Tab options.
+-Now if close tab is pressed and tab count is two, it asks to close the browser.
+Bug fixes:
+-Now Copy Image and Save Image From functions works properly.
+-New Window function now works properly.
+
+Version 1.0.3.7
+Added features:
+-Now on right click a tab, the option Close Tab (clicked one) has been added.
+-Now web pages show up their title instead the URL on tab pages.
+-Other minor changes (search button).
+
+Version 1.0.4.1
+Added features:
+-Now it doesn't display "Script error". In some cases, it didn't let you continue.
+Bug Fixes:
+-Hiperlinks which target is _blank now open in new tab instead starting IE.
+
+Version 1.0.4.8
+Added features:
+-Added function to remove more privacy data.
+Bug fixes:
+-Now when you change selected tab, title is updated.
+
+Version 1.0.5.0
+Added features:
+-Now you can decide if deleting Browser History on exit.
+
+Version 1.0.5.2
+Removed features:
+-Now you cannot decide any longer if deleting Browser History on exit.
+-Options removed from menu
+Improved features:
+-History is removed without prompting anything.
+
+Version 1.0.5.5
+Added features:
+-Now, picked browser engine will keep on restart.
+
+Version 1.0.5.6
+Bug fixes:
+-Support URL is now updated.
+
+Next -> Browser can be set as default (got the code, but not a working entry)
+
+Version 1.1.2.0 - NO LANZADA
+Added options:
+-Now you can add some webpages to favorites bar for faster accesing.
+-Now the favicon is shown in the tabs with their names.
+
+Version 1.2.4.6 - NO LANZADA
+Added options:
+-Web Browser is now more configurable (colors, history, etc)
